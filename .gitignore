@@ -1,0 +1,8 @@
+auth/
+instance/
+.pytest_cache/
+venv/
+.idea/
+__pycache__/
+create_test_data.py
+config.py
