@@ -22,7 +22,7 @@ MarkupSafe==1.1.1
 more-itertools==7.0.0
 passlib==1.7.1
 pluggy==0.9.0
-py==1.8.0
+py==1.10.0
 PyJWT==1.7.1
 pynamodb==3.3.3
 pytest==4.4.0
