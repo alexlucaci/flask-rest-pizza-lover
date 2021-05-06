@@ -8,7 +8,7 @@ chardet==3.0.4
 Click==7.0
 docutils==0.14
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 flask-dynamo==0.1.2
 Flask-JWT-Extended==3.18.0
 Flask-RESTful==0.3.7
